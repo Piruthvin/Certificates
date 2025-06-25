@@ -62,21 +62,42 @@ This repository contains digital certificates earned by **Piruthvin M** through 
 
 ---
 
-### 📂 Repository Contents
+📂 Repository Contents
 
-- `Piruthvin Nasscom.pdf`
-- `Piruthvin_M_Data_Visualation_by_Tata.pdf`
-- `Piruthvin_M_Enterprise_Design_Thinking_Co_Creator.pdf`
-- `Piruthvin_M_Enterprise_Design_Thinking_Practitioner.pdf`
-- `Piruthvin_M_EV_by_FORD.pdf`
-- `PIRUTHVIN-M-Participant-Certificate.pdf`
-- `AWS_Cloud_Practioner_Essentials.pdf`
-- `Golang_Basics.pdf`
-- `Golang_Intermediate.pdf`
-- `Problem_Solving_Basics.pdf`
-- `Problem_Solving_Intermediate.pdf`
-- `MSExcel_Simplilearn.pdf`
-- `Java_Basics.pdf`
+-`15th International Conference Participation Certificate.jpg`
+
+-`AWS Cloud Partitioner Essentials.pdf`
+
+-`Introduction To MS Excel.pdf`
+
+-`Master AWS Serverless.pdf`
+
+-`PIRUTHVIN-M-Participant-Certificate.pdf`
+
+-`Piruthvin Nasscom.pdf`
+
+-`Piruthvin_M_Data_Visualation_by_Tata.pdf`
+
+-`Piruthvin_M_EV_by_FORD.pdf`
+
+-`Piruthvin_M_Enterprise_Design_Thinking_Co_Creator.pdf`
+
+-`Piruthvin_M_Enterprise_Design_Thinking_Practitioner.pdf`
+
+-`golang_basic certificate.pdf`
+
+-`golang_intermediate certificate.pdf`
+
+-`java_basic certificate.pdf`
+
+-`problem_solving_basic certificate.pdf`
+
+-`problem_solving_intermediate certificate.pdf`
+
+-`python_basic certificate.pdf`
+
+-`README.md`
+
 
 ---
 
