@@ -9,7 +9,11 @@ This repository contains digital certificates earned by **Piruthvin M** through 
 ### Cloud & AWS
 - **AWS Cloud Practitioner Essentials**  
   Issued by: AWS Training and Certification  
-  Date: 13 June 2025  
+  Date: 13 June 2025
+  
+- ** Generative AI Foundations**  
+  Issued by: AWS Academy Graduate  
+  Date: September 2025  
 
 - **Master AWS Serverless**  
   Issued by: AWS  
@@ -92,7 +96,8 @@ This repository contains digital certificates earned by **Piruthvin M** through 
 ## 📂 Repository Contents
 
 - 15th International Conference Participation Certificate.jpg  
-- AWS Cloud Practitioner Essentials.pdf  
+- AWS Cloud Practitioner Essentials.pdf
+- AWSAcademy12NEW20250916-32-mczrxv
 - Introduction To MS Excel.pdf  
 - Master AWS Serverless.pdf  
 - PIRUTHVIN-M-Participant-Certificate.pdf  
