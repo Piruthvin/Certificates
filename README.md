@@ -11,7 +11,7 @@ This repository contains digital certificates earned by **Piruthvin M** through 
   Issued by: AWS Training and Certification  
   Date: 13 June 2025
   
-- ** Generative AI Foundations**  
+- **Generative AI Foundations**  
   Issued by: AWS Academy Graduate  
   Date: September 2025  
 
